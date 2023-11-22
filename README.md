@@ -4,15 +4,15 @@ Ce code, élaboré en 2021, vise à effectuer des statistiques sur la résolutio
 
 ## Fichiers inclus :
 
-- [Game.js](/chemin/vers/Game.js): Ce fichier permet d'exécuter le programme en utilisant la commande suivante :
+- [Game.js](https://github.com/Victor2106/Bataille/blob/main/Game.js): Ce fichier permet d'exécuter le programme en utilisant la commande suivante :
   ```
   node Game.js
   ```
 
-- [Card.js](/chemin/vers/Card.js): Cette classe représente chaque carte du jeu.
+- [Card.js](https://github.com/Victor2106/Bataille/blob/main/Card.js): Cette classe représente chaque carte du jeu.
 
-- [Player.js](/chemin/vers/Player.js): Cette classe représente un joueur avec son paquet de cartes.
+- [Player.js](https://github.com/Victor2106/Bataille/blob/main/Player.js): Cette classe représente un joueur avec son paquet de cartes.
 
-- [Utils.js](/chemin/vers/Utils.js): Ce fichier contient des fonctions utiles, telles qu'une fonction de mélange de cartes.
+- [Utils.js](https://github.com/Victor2106/Bataille/blob/main/Utils.js): Ce fichier contient des fonctions utiles, telles qu'une fonction de mélange de cartes.
 
 Bien que ce code puisse être considéré comme légèrement obsolète, vous êtes libre de le retravailler selon vos besoins et préférences.
