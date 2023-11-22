@@ -1,4 +1,4 @@
-# Bataille - Analyse de Statistiques
+# Bataille
 
 Ce code, élaboré en 2021, vise à effectuer des statistiques sur la résolution du jeu de la bataille. Conformément aux attentes initiales, les résultats obtenus confirment que les chances de remporter ce jeu sont de 50%.
 
